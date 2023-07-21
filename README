@@ -1,0 +1,6 @@
+Create a banking system using class
+Individual profile with account number
+Make transaction, withdraw, send money and update your profile authomatically
+####
+step1: make a blueprint that has any user profile and account generation
+step2: create methods for withdra
